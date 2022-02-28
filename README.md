@@ -1,2 +1,2 @@
-# RPC
+# RPS
 Basic rock paper scissors game

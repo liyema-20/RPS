@@ -1,0 +1,11 @@
+.uiButtons {
+    display: flex;
+    gap: 12px;
+    
+}
+
+.uiButtons #rock {
+    width: 200px;
+    height: 50px;
+
+}
